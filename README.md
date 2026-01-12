@@ -13,6 +13,7 @@ Termux ve Linux için basit ama etkili web zafiyet tarama aracı
 
  # 1. Projeyi klonla
 git clone https://github.com/KULLANICI_ADIN/lyron-web-scanner.git
+
 cd lyron-web-scanner
 
 # 2. Sanal ortam (opsiyonel ama önerilir)
