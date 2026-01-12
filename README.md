@@ -12,9 +12,9 @@ Termux ve Linux için basit ama etkili web zafiyet tarama aracı
 ## Kurulum 
 
  # 1. Projeyi klonla
-git clone https://github.com/KULLANICI_ADIN/lyron-web-scanner.git
+git clone https://github.com/Lyron-Systems/web-analyzer.git
 
-cd lyron-web-scanner
+cd web-analyzer
 
 # 2. Sanal ortam (opsiyonel ama önerilir)
 python -m venv venv
@@ -24,5 +24,6 @@ source venv/bin/activate    # Linux / macOS
  # 3. Bağımlılıkları kur
 pip install -r requirements.txt
 
-3 Kullanım:
+# 4. Kullanım:
 python web_analyzerv2.py
+
