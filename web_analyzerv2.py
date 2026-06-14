@@ -67,7 +67,6 @@ def animated_banner():
         " We Code The Shadows",
         "",
         "GitHub : https://github.com/Lyron-Systems",
-        " Instagram : https://instagram.com/lyronnn_",
         "",
         " Powered by Blood, Coffee & Zero Days"
     ]
